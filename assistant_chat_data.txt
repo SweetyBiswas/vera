@@ -1,0 +1,14 @@
+Total Chat_duration:1 minute(s) 1 second(s)
+Email Id:avishwakarma@veracitiz.com
+Chat_ID:dsgdt273eu3y23gu3t8
+Chat START TIME:2020-10-20 10:20 AM
+------------------------------------------
+Chat History:
+24-10-2020 12:00 AM User hello how are you
+24-10-2020 12:00 AM Assistant hwo are you
+24-10-2020 12:00 AM User am good
+24-10-2020 12:00 AM Assistant what is time
+24-10-2020 12:00 AM User time is money
+24-10-2020 12:00 AM Assistant ok sir
+24-10-2020 12:00 AM User good
+24-10-2020 12:00 AM Assistant ok

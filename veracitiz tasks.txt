@@ -1,0 +1,35 @@
+1. json to csv(assistant.json)
+2.json to csv(data 1,2)
+3.json to txt(assistant.json)
+4.data preprocessing on data1.csv
+5.json to DataFrame then Filtering data using Pandas
+6.Convert Text to Speech in Python
+7.Speech to Text Conversion in Python
+8.Flask web framework 
+9.Speech to Text using Flask
+10.SpeechRecognition using tkinter
+11.python .py file to Executable File(.EXE)
+12.python and sql connection
+13.DataFrame to SQL
+14.SQL queries using Python
+15.NLP(tokenization,Stemming)
+16.NLP(Lemmatization,CountVectorizer,TF-IDF)
+17.Email_Spam_Classifier
+18.Stock Sentiment Analysis
+19.Restaurant_Reviews_Sentiment_Analysis
+20.Sentiment Analysis on IMDB Movie Reviews
+21.Validation Techniques
+22.Confusion Matrix
+23.auc,roc_curve
+24.classification_report
+25.Hyperparameter optimization
+26.GridSearchCV
+27.RandomizedSearchCV
+28.Word2Vec
+29.Word2Vec
+30.Applied Machine Learning Course
+31.Applied Machine Learning Course
+32.Data collection
+33.Data Collection
+34.Data Collection
+35.Retrive file from google drive

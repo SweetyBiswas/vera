@@ -1,0 +1,46 @@
+[
+  {
+    "car": {
+      "make": "Ford",
+      "car_details": {
+        "model": "Fiesta",
+        "mileage": 15000,
+        "color": "yellow",
+        "value": 20000
+      }
+    }
+  },
+  {
+    "car": {
+      "make": "Dodge",
+      "car_details": {
+        "model": "Viper",
+        "mileage": 30000,
+        "color": "yellow",
+        "value": 30000
+      }
+    }
+  },
+  {
+    "car": {
+      "make": "Ford",
+      "car_details": {
+        "model": "Fiesta",
+        "mileage": 15000,
+        "color": "blue",
+        "value": 20000
+      }
+    }
+  },
+  {
+    "car": {
+      "make": "Random",
+      "car_details": {
+        "model": "Temper",
+        "mileage": 25000,
+        "color": "blue",
+        "value": 20000
+      }
+    }
+  }
+]

@@ -1,0 +1,64 @@
+{
+  "email_id": "avishwakarma@veracitiz.com",
+  "chat_starttime": "2020-10-20 10:20 AM",
+  "chat_id": "dsgdt273eu3y23gu3t8",
+  "chat_duration": "1 minute(s) 1 second(s)",
+  "chat": [
+    {
+      "User": {
+        "text": "hello how are you",
+        "time": "24-10-2020 12:00 AM",
+        "message_type": "text"
+      }
+    },
+    {
+      "Assistant": {
+        "text": "hwo are you",
+        "time": "24-10-2020 12:00 AM",
+        "message_type": "text"
+      }
+    },
+    {
+      "User": {
+        "text": "am good",
+        "time": "24-10-2020 12:00 AM",
+        "message_type": "text"
+      }
+    },
+    {
+      "Assistant": {
+        "text": "what is time",
+        "time": "24-10-2020 12:00 AM",
+        "message_type": "text"
+      }
+    },
+    {
+      "User": {
+        "text": "time is money",
+        "time": "24-10-2020 12:00 AM",
+        "message_type": "text"
+      }
+    },
+    {
+      "Assistant": {
+        "text": "ok sir",
+        "time": "24-10-2020 12:00 AM",
+        "message_type": "text"
+      }
+    },
+    {
+      "User": {
+        "text": "good",
+        "time": "24-10-2020 12:00 AM",
+        "message_type": "text"
+      }
+    },
+    {
+      "Assistant": {
+        "text": "ok",
+        "time": "24-10-2020 12:00 AM",
+        "message_type": "text"
+      }
+    }
+  ]
+}

@@ -1,0 +1,350 @@
+[
+  {
+    "ID": "2000918O",
+    "Client": "FLIBONBT",
+    "Category": [
+      {
+        "Tag": 7,
+        "Country": "MAU",
+        "Number": null,
+        "Csr": null
+      },
+      {
+        "Tag": 8,
+        "Country": "MAU",
+        "Number": null,
+        "Csr": null
+      },
+      {
+        "Tag": 11,
+        "Country": "MAU",
+        "Number": null,
+        "Csr": [
+          {
+            "Strs": 2,
+            "Type": "Test",
+            "Dety": "4-Extra Dark",
+            "Rest": "1NEH00029A",
+            "Tent": 1669,
+            "Renew": 9869.9,
+            "Route": [
+              {
+                "CdsRoute": "DSFF"
+              },
+              {
+                "CdsRoute": "DFGH"
+              },
+              {
+                "CdsRoute": "FSTPAD"
+              },
+              {
+                "CdsRoute": "VERTY"
+              },
+              {
+                "CdsRoute": "PR"
+              },
+              {
+                "CdsRoute": "DUNROLLDYE"
+              },
+              {
+                "CdsRoute": "DROPE1/1"
+              },
+              {
+                "CdsRoute": "FSLIT"
+              },
+              {
+                "CdsRoute": "FSTPAD"
+              },
+              {
+                "CdsRoute": "FST"
+              },
+              {
+                "CdsRoute": "XXYU"
+              },
+              {
+                "CdsRoute": "VE"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ID": "243673",
+    "Client": "sd",
+    "Category": [
+      {
+        "Tag": 7,
+        "Country": "MAU",
+        "Number": null,
+        "Csr": null
+      },
+      {
+        "Tag": 8,
+        "Country": "MAU",
+        "Number": null,
+        "Csr": null
+      },
+      {
+        "Tag": 11,
+        "Country": "NULL",
+        "Number": null,
+        "Csr": [
+          {
+            "Strs": 2,
+            "Type": "Test",
+            "Dety": "4-Extra Dark",
+            "Rest": "1NEH00029A",
+            "Tent": 1669,
+            "Renew": 9869.9,
+            "Route": [
+              {
+                "CdsRoute": "DSFF"
+              },
+              {
+                "CdsRoute": "DFGH"
+              },
+              {
+                "CdsRoute": "FSTPAD"
+              },
+              {
+                "CdsRoute": "DEMP"
+              },
+              {
+                "CdsRoute": "PR"
+              },
+              {
+                "CdsRoute": "DUNROLLDYE"
+              },
+              {
+                "CdsRoute": "DROPE1/1"
+              },
+              {
+                "CdsRoute": "FSLIT"
+              },
+              {
+                "CdsRoute": "FSTPAD"
+              },
+              {
+                "CdsRoute": "FST"
+              },
+              {
+                "CdsRoute": "VE"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ID": "2433563",
+    "Client": "DEMP",
+    "Category": [
+      {
+        "Tag": 7,
+        "Country": "MAU",
+        "Number": null,
+        "Csr": null
+      },
+      {
+        "Tag": 8,
+        "Country": "MAU",
+        "Number": null,
+        "Csr": null
+      },
+      {
+        "Tag": 11,
+        "Country": "MAU",
+        "Number": null,
+        "Csr": [
+          {
+            "Strs": 2,
+            "Type": "Test",
+            "Dety": "4-Extra Dark",
+            "Rest": "1NEH00029A",
+            "Tent": 1669,
+            "Renew": 9869.9,
+            "Route": [
+              {
+                "CdsRoute": "DSFF"
+              },
+              {
+                "CdsRoute": "DFGH"
+              },
+              {
+                "CdsRoute": "FSTPAD"
+              },
+              {
+                "CdsRoute": "VERTY"
+              },
+              {
+                "CdsRoute": "PR"
+              },
+              {
+                "CdsRoute": "DUNROLLDYE"
+              },
+              {
+                "CdsRoute": "DROPE1/1"
+              },
+              {
+                "CdsRoute": "XXYU"
+              },
+              {
+                "CdsRoute": "VE"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ID": "343633",
+    "Client": "DEMPPPP",
+    "Category": [
+      {
+        "Tag": 1,
+        "Country": "MAU",
+        "Number": "EXC-CF1802661/01",
+        "Csr": [
+          {
+            "Strs": 2,
+            "Type": "K-Basic with OBA",
+            "Dety": "1-Light",
+            "Rest": "1BLK00015A",
+            "Tent": 268,
+            "Renew": 1112.96,
+            "Route": [
+              {
+                "CdsRoute": "TTAX"
+              },
+              {
+                "CdsRoute": "PR"
+              },
+              {
+                "CdsRoute": "FSLIT"
+              },
+              {
+                "CdsRoute": "SDFG"
+              },
+              {
+                "CdsRoute": "FST"
+              },
+              {
+                "CdsRoute": "FGH"
+              },
+              {
+                "CdsRoute": "FPACKWINDER"
+              },
+              {
+                "CdsRoute": "VE"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Tag": 7,
+        "Country": "DEM",
+        "Number": null,
+        "Csr": null
+      },
+      {
+        "Tag": 8,
+        "Country": "MAU",
+        "Number": "EXC-CF1800120/02",
+        "Csr": [
+          {
+            "Strs": 2,
+            "Type": "K-Basic with OBA",
+            "Dety": "1-Light",
+            "Rest": "1BLK00015A",
+            "Tent": 8,
+            "Renew": 31.19,
+            "Route": [
+              {
+                "CdsRoute": "FABAVL"
+              },
+              {
+                "CdsRoute": "PR"
+              },
+              {
+                "CdsRoute": "SEMP"
+              },
+              {
+                "CdsRoute": "DROPE1/1"
+              },
+              {
+                "CdsRoute": "TYPE"
+              },
+              {
+                "CdsRoute": "FSTPAD"
+              },
+              {
+                "CdsRoute": "FST"
+              },
+              {
+                "CdsRoute": "FOWFELT"
+              },
+              {
+                "CdsRoute": "FPACKWINDER"
+              },
+              {
+                "CdsRoute": "VE"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Tag": 9,
+        "Country": "MAU",
+        "Number": "EXC-CF1805992/01",
+        "Csr": [
+          {
+            "Strs": 2,
+            "Type": "DEMPO",
+            "Dety": "1-Light",
+            "Rest": "SDF$45",
+            "Tent": 242,
+            "Renew": 1034.19,
+            "Route": [
+              {
+                "CdsRoute": "DSF"
+              },
+              {
+                "CdsRoute": "PR"
+              },
+              {
+                "CdsRoute": "DUNROLLDYE"
+              },
+              {
+                "CdsRoute": "DROPE1/1"
+              },
+              {
+                "CdsRoute": "FSLIT"
+              },
+              {
+                "CdsRoute": "FSTPAD"
+              },
+              {
+                "CdsRoute": "FST"
+              },
+              {
+                "CdsRoute": "FOWFELT"
+              },
+              {
+                "CdsRoute": "FPACKWINDER"
+              },
+              {
+                "CdsRoute": "VE"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  ]

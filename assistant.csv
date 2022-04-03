@@ -1,0 +1,9 @@
+,person,text,time,message_type
+0,User,hello how are you,24-10-2020 12:00 AM,text
+1,Assistant,hwo are you,24-10-2020 12:00 AM,text
+2,User,am good,24-10-2020 12:00 AM,text
+3,Assistant,what is time,24-10-2020 12:00 AM,text
+4,User,time is money,24-10-2020 12:00 AM,text
+5,Assistant,ok sir,24-10-2020 12:00 AM,text
+6,User,good,24-10-2020 12:00 AM,text
+7,Assistant,ok,24-10-2020 12:00 AM,text
